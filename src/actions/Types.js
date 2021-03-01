@@ -1,0 +1,8 @@
+const types = {
+    ADD_TASK: "ADD_TASK",
+    DELETE_TASK: "DELETE_TASK",
+    MARK_COMPLETE: "MARK_COMPLETE",
+    REMOVE_FROM_COMPLETED: "REMOVE_FROM_COMPLETED"
+}
+
+export default types;
